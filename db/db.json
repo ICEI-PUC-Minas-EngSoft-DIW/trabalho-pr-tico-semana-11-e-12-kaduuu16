@@ -1,18 +1,73 @@
 {
-  "usuarios": [
+  "artistas": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": 1,
+      "nome": "Ana Silva",
+      "descricao": "Cantora e compositora brasileira com repertório MPB e pop.",
+      "conteudo": "Ana começou a carreira em festivais locais, possui 3 álbuns, vários singles e turnês pelo Brasil.",
+      "pais": "Brasil",
+      "genero": "MPB / Pop",
+      "destaque": true,
+      "data": "2024-11-10",
+      "imagem_principal": "assets/img/artistas/ana_silva.jpg",
+      "trabalhos": [
+        {
+          "id": 1,
+          "nome": "Clipe 'Noite Clara'",
+          "descricao": "Clipe oficial do single de 2023.",
+          "imagem": "assets/img/artistas/ana_noite_clara.jpg"
+        },
+        {
+          "id": 2,
+          "nome": "Álbum 'Estrada'",
+          "descricao": "Álbum de estreia com 10 faixas.",
+          "imagem": "assets/img/artistas/ana_estrada.jpg"
+        }
+      ]
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": 2,
+      "nome": "Luca Rossi",
+      "descricao": "Produtor e DJ italiano que mistura eletrônico com elementos do jazz.",
+      "conteudo": "Reconhecido por sets energéticos e produções para trilhas sonoras.",
+      "pais": "Itália",
+      "genero": "Eletrônica / Jazz",
+      "destaque": false,
+      "data": "2023-08-02",
+      "imagem_principal": "assets/img/artistas/luca_rossi.jpg",
+      "trabalhos": [
+        {
+          "id": 1,
+          "nome": "Set Live - Tomorrow Fest",
+          "descricao": "Gravação ao vivo do festival de 2023.",
+          "imagem": "assets/img/artistas/luca_live.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Maya Johnson",
+      "descricao": "Cantora e compositora norte-americana com influências soul e R&B.",
+      "conteudo": "Maya possui dois EPs independentes e colaborações com artistas internacionais.",
+      "pais": "Estados Unidos",
+      "genero": "R&B / Soul",
+      "destaque": true,
+      "data": "2025-01-15",
+      "imagem_principal": "assets/img/artistas/maya_johnson.jpg",
+      "trabalhos": [
+        {
+          "id": 1,
+          "nome": "EP 'Blue Hour'",
+          "descricao": "EP lançado em 2024 com produção intimista.",
+          "imagem": "assets/img/artistas/maya_bluehour.jpg"
+        },
+        {
+          "id": 2,
+          "nome": "Sessão Acústica",
+          "descricao": "Vídeo acústico com versão ao vivo.",
+          "imagem": "assets/img/artistas/maya_acustico.jpg"
+        }
+      ]
     }
   ]
 }
