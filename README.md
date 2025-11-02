@@ -6,16 +6,16 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Carlos Eduardo Farias de Oliveira
+- Matricula: 1562374
+- Proposta de projeto escolhida: Gestor de artistas
+- Breve descrição sobre seu projeto: Um gestor de artistas independente de qual seja, com API agora com opção de criar um artista
 
 **Print dos testes da API com Postman ou similar**
 
 << COLOQUE A IMAGEM GET AQUI >>
 
-<< COLOQUE A IMAGEM POST AQUI >>
+<< COLOQUE A IMAGEM POST AQUI >> MEU NODE NÃO RODOU ADEQUADAMENTE E NÃO CONSEGUI RESOLVER O PROBLEMA, VOU TER QUE PERDER PONTOS.
 
 << COLOQUE A IMAGEM PUT AQUI >>
 
